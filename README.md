@@ -9,3 +9,8 @@
 - RPG Essentials Sound Effects - FREE!
 - Casual Game BGM #5
 
+# Game
+![image](https://github.com/SquashSesame/UnityLesson_Action/blob/main/img/ss00.png)
+![image](https://github.com/SquashSesame/UnityLesson_Action/blob/main/img/ss01.png)
+![image](https://github.com/SquashSesame/UnityLesson_Action/blob/main/img/ss02.png)
+
