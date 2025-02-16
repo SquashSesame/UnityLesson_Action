@@ -3,7 +3,12 @@
 # Unity Version
 - Unity 6000.0.26f1
 
-# Asset Store
+# 利用している Asset Store パッケージ
+
+## 下記ライセンス使用許諾を厳守した上でご利用ください
+- [標準Unity Asset Store EULA](https://unity.com/ja/legal/as-terms)
+
+## 使用しているパッケージ
 - Simple 2D Platformer Assets Pack
 - Selected U3D Japanese Font
 - RPG Essentials Sound Effects - FREE!
